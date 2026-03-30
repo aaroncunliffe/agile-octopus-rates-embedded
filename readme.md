@@ -34,7 +34,7 @@ Included in the models folder is a simple stand to hold the screen at a 45° ang
 | ![Yellow normal pricing screen](images/normal.jpg) | ![Red peak pricing screen](images/peak.jpg) |
 
 #### Stand model
-![3D printed stand model render](images/stand-model.png)
+<img src="images/stand-model.png" alt="3D printed stand model render" width="480">
 
 ## References
 - [Microcontroller](https://docs.m5stack.com/en/core/AtomS3)
