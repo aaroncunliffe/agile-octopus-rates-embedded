@@ -24,6 +24,17 @@ Included in the models folder is a simple stand to hold the screen at a 45° ang
 
 ### Images
 
+#### Device display states
+| Blue (plunge) | Green (cheap) |
+| --- | --- |
+| ![Blue plunge pricing screen](images/plunge.jpg) | ![Green cheap pricing screen](images/green.jpg) |
+
+| Yellow (normal) | Red (peak) |
+| --- | --- |
+| ![Yellow normal pricing screen](images/normal.jpg) | ![Red peak pricing screen](images/peak.jpg) |
+
+#### Stand model
+![3D printed stand model render](images/stand-model.png)
 
 ## References
 - [Microcontroller](https://docs.m5stack.com/en/core/AtomS3)
@@ -35,7 +46,7 @@ Included in the models folder is a simple stand to hold the screen at a 45° ang
 
 
 ## Future work
-- Add images to repository.
+- ~~Add images to repository.~~
 - ~~3D printed stand model~~.
 - Use screen button press to have a second 'page' showing daily average.
 - Use onboard LED either RGB values to show current price state OR to show when fetching and processing rate information.
